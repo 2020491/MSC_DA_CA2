@@ -1,5 +1,7 @@
 # MSC_DA_CA2 (50%)
 
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zt9ieQOr4CeX2_GxkB3HAAHaEK%26pid%3DApi&f=1&ipt=47df725884420645f938b5502567e2aa12d353b34a1cdc1da576375b75b270f2&ipo=images
+
 ## **`Scenario`**
 
 > *“Today, big data is ubiquitous, machine learning applications are thriving, artificial intelligence appears in everyday conversations, and the internet of things is present even in household appliances. Businesses and organizations are increasingly managed through cloud computing and high performance computing is progressively accessible as a service… More effective operations, reduced uncertainties, and real time decision-support could revolutionize agriculture to a great extent . Food could be produced more efficiently, of higher nutritional quality, in more stable supplies, with less environmental damage, and likely with additional economic, social, and ecological benefits.”(Sjoukje A. Osinga, Dilli Paudel, Spiros A. Mouzakitis, Ioannis N. Athanasiadis (2022))*
