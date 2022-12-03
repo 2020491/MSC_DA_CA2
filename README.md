@@ -4,7 +4,7 @@
      alt="Agriculture in EU" 
      width = "450" height = "350" 
      align = "right"
-     title="Agriculture in EU"    
+     title="CPS,2022 <bold>Agriculture Power</bold>"    
 />
 
 ## **`Scenario`**
