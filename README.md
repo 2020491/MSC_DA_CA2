@@ -2,7 +2,7 @@
 
 ## **`Scenario`**
 
-> *“Today, big data is ubiquitous, machine learning applications are thriving, artificial intelligence appears in everyday conversations, and the internet of things is present even in household appliances. Businesses and organizations are increasingly managed through cloud computing and high performance computing is progressively accessible as a service…More effective operations, reduced uncertainties, and real time decision-support could revolutionize agriculture to a great extent . Food could be produced more efficiently, of higher nutritional quality, in more stable supplies, with less environmental damage, and likely with additional economic, social, and ecological benefits.”(Sjoukje A. Osinga, Dilli Paudel, Spiros A. Mouzakitis, Ioannis N. Athanasiadis (2022))*
+> *“Today, big data is ubiquitous, machine learning applications are thriving, artificial intelligence appears in everyday conversations, and the internet of things is present even in household appliances. Businesses and organizations are increasingly managed through cloud computing and high performance computing is progressively accessible as a service… More effective operations, reduced uncertainties, and real time decision-support could revolutionize agriculture to a great extent . Food could be produced more efficiently, of higher nutritional quality, in more stable supplies, with less environmental damage, and likely with additional economic, social, and ecological benefits.”(Sjoukje A. Osinga, Dilli Paudel, Spiros A. Mouzakitis, Ioannis N. Athanasiadis (2022))*
 
 
 You have been tasked with **analyzing Ireland's Agricultural data** and comparing the Irish Agri sector **with other countries worldwide**. 
@@ -16,15 +16,15 @@ Your Research could include:
 - **animal stock**
 - **medicinal input**
 - **organic**
-- **gm products etc. (or any other relevant topic EXCEPT Climate change) with Ireland as your base line.
+- **gm products**... (or any other relevant topic **EXCEPT Climate change**) with Ireland as your base line.
 
-Note:
+*Note:*
 
 ●       While topical, Agricultural impact on Climate Change SHOULD NOT be chosen as an area of research for this assessment.
 
-●       Members of the European Union implement the Common Agricultural Policy and this should be researched as it has a significant statistical impact.
+●       Members of the EU implement the CAP (Common Agricultural Policy) and this should be researched as it has a significant statistical impact.
 
-●       The United Kingdom is NOT part of the European Union
+●       The UK is NOT part of the EU
 
 You must source appropriate data sets from any available repository to inform your research (all datasets MUST be referenced and the relevant licence/permissions detailed).
 
@@ -44,4 +44,3 @@ with regular commits of code & report versions.
 **N.B. Address of your version control repository in your report.**
 
 Please view the Brief Below for the detailed requirements for your assessment.
-
