@@ -61,7 +61,6 @@ Please view the Brief Below for the detailed requirements for your assessment.
 <hl>
 copyright
      
-<body bgcolor = "#b5dcb3">
-<h3>This is main page and content from any link will be displayed here.</h3>
-<p>So now click any link and see the result.</p>
-</body>
+
+<h3 bgcolor = "#b5dcb3">This is main page and content from any link will be displayed here.</h3>
+<p bgcolor = "#b5dcb3">So now click any link and see the result.</p>
