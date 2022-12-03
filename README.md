@@ -4,7 +4,7 @@
      alt="Agriculture" 
      width = "450" height = "350" 
      align = "right"
-     title="A T-Rex on display in the Manchester University Museum" 
+     title="Agriculture in EU" 
 />
 
 ## **`Scenario`**
