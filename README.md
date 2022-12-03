@@ -6,7 +6,6 @@
      align = "right"
      title="Agriculture in EU"    
 />
-harvard reference
 
 ## **`Scenario`**
 
