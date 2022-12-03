@@ -2,11 +2,15 @@
 
 <img 
      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zt9ieQOr4CeX2_GxkB3HAAHaEK%26pid%3DApi&f=1&ipt=47df725884420645f938b5502567e2aa12d353b34a1cdc1da576375b75b270f2&ipo=images" 
-     alt="Agriculture" 
+     alt="Agriculture in EU" 
      width = "450" height = "350" 
      align = "right"
      title="Agriculture in EU"
-     border="5"
+     style="border: 2px solid white;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    overflow:hidden;"
 />  
 
 ## **`Scenario`**
