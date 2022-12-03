@@ -7,7 +7,7 @@
           width = "450" height = "350" 
           align = "right"
           title="Agriculture in EU"
-          style='border-width: 1px;border-color: Black;'
+          style='border-width:10px; border-color:Black;'
      />
      <figcaption>
      A T-Rex on display in the Manchester University Museum.
