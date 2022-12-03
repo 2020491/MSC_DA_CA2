@@ -1,4 +1,4 @@
-# MSC_DA_CA2
+# MSC_DA_CA2 ### (50%)
 
 ## **`Scenario`**
 
