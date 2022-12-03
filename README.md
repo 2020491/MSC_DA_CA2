@@ -4,7 +4,7 @@
      alt="Agriculture in EU" 
      width = "450" height = "350" 
      align = "right"
-     title="CPS,2022 <bold>Agriculture Power</bold>"    
+     title="CPS,2022 Agriculture Power"    
 />
 
 ## **`Scenario`**
@@ -58,3 +58,8 @@ copyright
 
 <h3 bgcolor = "#b5dcb3">This is main page and content from any link will be displayed here.</h3>
 <p bgcolor = "#b5dcb3">So now click any link and see the result.</p>
+     
+     
+# References:
+     
+https://www.cps-generators.com/agriculture/
