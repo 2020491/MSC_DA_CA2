@@ -1,6 +1,6 @@
 # MSC_DA_CA2
 
-## <ul>Criteria of Analysis</ul> 
+## `Criteria of Analysis`
 
 Discuss the choice of *project management framework* you have deemed suitable for this project.
 **CRISP DM**
