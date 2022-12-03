@@ -1,5 +1,12 @@
 # MSC_DA_CA2 (50%)
 
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
 <img 
      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zt9ieQOr4CeX2_GxkB3HAAHaEK%26pid%3DApi&f=1&ipt=47df725884420645f938b5502567e2aa12d353b34a1cdc1da576375b75b270f2&ipo=images" 
      alt="Agriculture in EU" 
