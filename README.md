@@ -6,6 +6,9 @@
      align = "right"
      title="Agriculture in EU" 
 />
+<figcaption>
+    A T-Rex on display in the Manchester University Museum.
+  </figcaption>
 
 ## **`Scenario`**
 
