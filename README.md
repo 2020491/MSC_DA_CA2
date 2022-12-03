@@ -52,14 +52,10 @@ with regular commits of code & report versions.
 
 Please view the Brief Below for the detailed requirements for your assessment.
 
-<hl>
-copyright
-     
-
-<h3 bgcolor = "#b5dcb3">This is main page and content from any link will be displayed here.</h3>
-<p bgcolor = "#b5dcb3">So now click any link and see the result.</p>
-     
      
 # References:
      
 https://www.cps-generators.com/agriculture/
+
+<hr>
+copyright   
