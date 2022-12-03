@@ -8,7 +8,7 @@ Discuss the choice of *project management framework* you have deemed suitable fo
 It is expected that you use some type of *version control software*: 
 - **GitHub**
 - Gitlab
-- BitBucket...
+- BitBucket...<br>
 with regular commits of code and report versions. 
 
 Please include the address of your version control repository in your report.
