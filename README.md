@@ -6,9 +6,7 @@
      width = "450" height = "350" 
      align = "right"
      title="Agriculture in EU"
-     style="border: 2px solid white;-webkit-border-radius: 50px;-moz-border-radius: 50px;border-radius: 50px;overflow:hidden;"
-     display: block;
-     margin: 0 auto;
+     style="border: 2px solid white;-webkit-border-radius: 50px;-moz-border-radius: 50px;border-radius: 50px;overflow:hidden; display: block;margin: 0 auto;"    
 />  
 
 ## **`Scenario`**
