@@ -57,3 +57,6 @@ with regular commits of code & report versions.
 **N.B. Address of your version control repository in your report.**
 
 Please view the Brief Below for the detailed requirements for your assessment.
+
+<hl>
+copyright
