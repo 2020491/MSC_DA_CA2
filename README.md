@@ -25,7 +25,7 @@ Discuss the choice of *project management framework* you have deemed suitable fo
 **CRISP DM**
 
 It is expected that you use some type of *version control software*: 
-- **GitHub**
+- **`GitHub`**
 - Gitlab
 - BitBucket...<br>
 
