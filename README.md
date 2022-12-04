@@ -50,12 +50,10 @@ with regular commits of code & report versions.
 
 **N.B. Address of your version control repository in your report.**
 
-Please view the Brief Below for the detailed requirements for your assessment.
-
+Please view the Brief for the detailed requirements for your assessment.
      
 # References:
-CPS-Generators (2022) <i>"Agriculture Power"</i>     
-https://www.cps-generators.com/agriculture/
+CPS-Generators (2022) <i>"Agriculture Power"</i> Available at: https://www.cps-generators.com/agriculture/ (Accesed on: 2022/12/03)
 
 <hr>
 © 2022-23 2020491
