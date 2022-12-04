@@ -53,7 +53,7 @@ with regular commits of code & report versions.
 Please view the Brief for the detailed requirements for your assessment.
      
 # References:
-CPS-Generators (2022) <i>"Agriculture Power"</i> Available at: https://www.cps-generators.com/agriculture/ (Accesed on: 2022/12/03)
+CPS-Generators (2022) <i>"Agriculture Power"</i> Available at: https://www.cps-generators.com/agriculture/ (Accessed on: 2022/12/03)
 
 <hr>
 © 2022-23 2020491
