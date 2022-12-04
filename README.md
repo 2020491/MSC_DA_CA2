@@ -54,8 +54,8 @@ Please view the Brief Below for the detailed requirements for your assessment.
 
      
 # References:
-     
+CPS-Generators (2022) <i>"Agriculture Power"</i>     
 https://www.cps-generators.com/agriculture/
 
 <hr>
-© 2022-23 2020491    
+© 2022-23 2020491
